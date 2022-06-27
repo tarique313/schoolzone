@@ -1,0 +1,8 @@
+{
+    "rules": {
+        "no-console": {
+            "severity": "warning",
+            "options": ["log"]
+        }
+    }
+}
